@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:note_app_with_hive/widgets/custom_appBar.dart';
-import 'package:note_app_with_hive/widgets/custom_material_button.dart';
 import 'package:note_app_with_hive/widgets/custom_text_form_field.dart';
 
 class NoteEditBody extends StatelessWidget {
